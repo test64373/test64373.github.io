@@ -1627,7 +1627,7 @@ h6,
 }
 
 .bg-theme {
-  background-color: #67bce5 !important;
+  background-color: #15181e !important;
 }
 
 .bg-theme.current {
@@ -19800,11 +19800,11 @@ hr + .nk-block {
   }
   .section-t,
   .section {
-    padding-top: 120px;
+    padding-top: 40px;
   }
   .section-b,
   .section {
-    padding-bottom: 120px;
+    padding-bottom: 40px;
   }
   .section-t-l,
   .section-l {
